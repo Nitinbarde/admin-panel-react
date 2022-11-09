@@ -1,2 +1,1 @@
-# admin-panel-react
-admin-panel-react
+https://nitinbarde.github.io/admin-panel-react
